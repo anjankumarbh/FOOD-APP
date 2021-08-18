@@ -1,14 +1,14 @@
-package com.example.foodorder;
+    package com.example.foodorder;
 
-import androidx.appcompat.app.AppCompatActivity;
+    import androidx.appcompat.app.AppCompatActivity;
 
-import android.os.Bundle;
+    import android.os.Bundle;
 
-public class VegBiriyaniActivity extends AppCompatActivity {
+    public class VegBiriyaniActivity extends AppCompatActivity {
 
-    @Override
-    protected void onCreate(Bundle savedInstanceState) {
-        super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_veg_biriyani);
+        @Override
+        protected void onCreate(Bundle savedInstanceState) {
+            super.onCreate(savedInstanceState);
+            setContentView(R.layout.activity_veg_biriyani);
+        }
     }
-}
